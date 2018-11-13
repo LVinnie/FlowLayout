@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FlowLayout">
+        <attr name="FLGravity" format="string" />
+        <attr name="FLGapX" format="dimension" />
+        <attr name="FLGapY" format="dimension" />
+    </declare-styleable>
+
+</resources>
