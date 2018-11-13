@@ -1,9 +1,9 @@
 FlowLayout
 =========
 
-<img src='image/1.jpg' height='500px'/>
-<img src='image/2.jpg' height='500px'/>
-<img src='image/3.jpg' height='500px'/>
+<img src='image/1.jpg' height='340px'/>
+<img src='image/2.jpg' height='340px'/>
+<img src='image/3.jpg' height='340px'/>
 
 ## How to use
 
